@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-ts",
+  "version": "1.0.0",
+  "description": "A set of ESLint rules for TypeScript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "typescript",
+    "react"
+  ],
+  "author": "Akmal Yunusov <ayunusov2301@gmail.com>",
+  "license": "MIT"
+}
